@@ -1,7 +1,7 @@
 MYSQL_SERVER="127.0.0.1"
 MYSQL_USER="root"
-MYSQL_PASS="h|+Y%6pXb|z^Qz7US"
-SSH_SERVER="kiteware.com"
+MYSQL_PASS=""
+SSH_SERVER=""
 SSH_USER="root"
 
 NOW=$(date +"%Y.%m.%d")
